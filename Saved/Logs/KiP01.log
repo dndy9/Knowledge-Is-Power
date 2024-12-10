@@ -1081,3 +1081,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.10-01.48.25:353][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.12.10-01.48.25:357][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2024.12.10-01.48.25:386][609]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.12.10-01.51.05:341][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.12.10-01.51.05:343][137]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/Main_MenuMap' took 0.029
+[2024.12.10-01.51.05:344][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Attacks/Bullet] ([1] browsable assets)...
+[2024.12.10-01.51.05:353][137]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Attacks/Bullet.Bullet]
+[2024.12.10-01.51.05:353][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Attacks/Bullet]
+[2024.12.10-01.51.05:363][137]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/Bullet_Auto1486927E546DC4F54C57E1C97818A329C.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/Autosaves/Game/Attacks/Bullet_Auto1.uasset'
+[2024.12.10-01.51.05:363][137]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.12.10-02.10.41:579][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Attacks/BP_Range" FILE="../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/Attacks/BP_Range.uasset" SILENT=true
+[2024.12.10-02.10.41:595][956]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/BP_Range83A4B6AF4F28647C3F9B1D9747424EDE.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/Attacks/BP_Range.uasset'
+[2024.12.10-02.10.41:624][956]AssetCheck: New page: Asset Save: BP_Range
+[2024.12.10-02.10.41:624][956]LogContentValidation: Display: Validating Blueprint /Game/Attacks/BP_Range.BP_Range
+[2024.12.10-02.10.42:664][ 12]BlueprintLog: New page: Compile BP_Range
+[2024.12.10-02.10.42:697][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.12.10-02.10.57:794][427]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Attacks/Bullet.Bullet
+[2024.12.10-02.10.57:847][427]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.12.10-02.10.57:933][427]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.12.10-02.10.58:376][428]LogRenderer: Reallocating scene render targets to support 1144x792 Format 10 NumSamples 1 (Frame:1).
+[2024.12.10-02.11.03:786][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Attacks/Bullet" FILE="../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/Attacks/Bullet.uasset" SILENT=true
+[2024.12.10-02.11.03:802][712]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/Bullet2B2DCE9E41D0D523F9DD83A1DC9E766D.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/Attacks/Bullet.uasset'
+[2024.12.10-02.11.03:819][712]AssetCheck: New page: Asset Save: Bullet
+[2024.12.10-02.11.03:819][712]LogContentValidation: Display: Validating StaticMesh /Game/Attacks/Bullet.Bullet
