@@ -1102,3 +1102,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.10-02.11.03:802][712]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/Bullet2B2DCE9E41D0D523F9DD83A1DC9E766D.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/Attacks/Bullet.uasset'
 [2024.12.10-02.11.03:819][712]AssetCheck: New page: Asset Save: Bullet
 [2024.12.10-02.11.03:819][712]LogContentValidation: Display: Validating StaticMesh /Game/Attacks/Bullet.Bullet
+[2024.12.10-02.11.43:969][937]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5a05465c-0f34-48a9-8bcb-c3338be5fcdd}.
+[2024.12.10-02.11.43:969][937]LogAudioMixer: Resetting audio stream to device id 
+[2024.12.10-02.11.43:978][937]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.10-02.11.43:978][937]LogAudioMixer: Display: 1: FrontRight
+[2024.12.10-02.27.18:844][967]LogHttp: Warning: 0000015AB8764800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B317F0629-4BC4-3864-EBC5-47B3BCF4659E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=23c0082446a9c32716463fae6b3a3ed9%7C24af3b6a016b4964ad83d7e0c866f24a%7Cbc014f6d-76ca-4c56-bb4c-5083036bbbc7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15a7e563eb0 [can pipeline])
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.217.132) port 443 (#0))
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 9 (Closing connection 0)
+[2024.12.10-02.27.18:845][967]LogHttp: Warning: 0000015AB8764800: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.12.10-02.27.19:176][967]LogAudioMixer: Resetting audio stream to device id 
+[2024.12.10-02.27.19:235][967]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.10-02.27.19:235][967]LogAudioMixer: Display: 1: FrontRight
+[2024.12.10-02.27.19:469][968]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B317F0629-4BC4-3864-EBC5-47B3BCF4659E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=23c0082446a9c32716463fae6b3a3ed9%7C24af3b6a016b4964ad83d7e0c866f24a%7Cbc014f6d-76ca-4c56-bb4c-5083036bbbc7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.10-02.27.26:184][988]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.12.10-02.44.03:700][992]LogAudioMixer: Resetting audio stream to device id 
+[2024.12.10-02.44.04:067][992]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.10-02.44.04:067][992]LogAudioMixer: Display: 1: FrontRight
+[2024.12.10-02.44.05:130][994]LogHttp: Warning: 0000015AB8A0C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B317F0629-4BC4-3864-EBC5-47B3BCF4659E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=23c0082446a9c32716463fae6b3a3ed9%7C24af3b6a016b4964ad83d7e0c866f24a%7Cbc014f6d-76ca-4c56-bb4c-5083036bbbc7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.12.10-02.44.05:130][994]LogHttp: Warning: 0000015AB8A0C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.10-02.44.05:145][994]LogHttp: Warning: 0000015AB8A0C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.10-02.44.05:145][994]LogHttp: Warning: 0000015AB8A0C800: libcurl info message cache 1 (Closing connection 1)
+[2024.12.10-02.44.05:145][994]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B317F0629-4BC4-3864-EBC5-47B3BCF4659E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=23c0082446a9c32716463fae6b3a3ed9%7C24af3b6a016b4964ad83d7e0c866f24a%7Cbc014f6d-76ca-4c56-bb4c-5083036bbbc7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.10-02.46.23:057][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Progression.Progression
+[2024.12.10-02.48.10:915][840]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/ProgressionE9CCA84740EF37AF1E21D8939FB3E627.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/TopDownBP/Blueprints/Progression.uasset'
+[2024.12.10-02.48.11:088][840]AssetCheck: New page: Asset Save: Progression
+[2024.12.10-02.48.11:088][840]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Progression.Progression
+[2024.12.10-02.48.33:656][642]BlueprintLog: New page: Compile Progression
+[2024.12.10-02.48.34:035][642]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2024.12.10-02.48.36:552][700]LogSavePackage: Moving '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Saved/Progression2FF26A434EFCCCEAD8A0889A1E881D1C.tmp' to '../../../../../../Users/jmcro/OneDrive/Documents/GitHub/Knowledge-Is-Power/Content/TopDownBP/Blueprints/Progression.uasset'
+[2024.12.10-02.48.36:762][700]AssetCheck: New page: Asset Save: Progression
+[2024.12.10-02.48.36:762][700]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Progression.Progression
