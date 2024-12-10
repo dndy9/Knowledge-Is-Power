@@ -1,0 +1,2 @@
+C:\Users\tari\Desktop\blankcpp\Plugins\FileUploaderPlugin\Intermediate\Build\Win64\UE4Editor\Development\FileUploaderPlugin\Definitions.FileUploaderPlugin.h
+C:\Users\tari\Desktop\blankcpp\Plugins\FileUploaderPlugin\Source\FileUploaderPlugin\Public\FileUploaderPlugin.h
