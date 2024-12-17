@@ -1,5 +1,6 @@
-Knowledge is Power we will require Unreal Engine version 4.27.2. - https://store.epicgames.com/en-US/download
 System Requirements: Recommended operating system is Windows 10 64-bit version,  computer processor should be a four core Intel or AMD chip with a minimum speed of 2.5GHz, and the hardware should have 8gb of RAM and a video card compatible with DirectX11 or 12.
+
+Knowledge is Power we will require Unreal Engine version 4.27.2. - https://store.epicgames.com/en-US/download
 The project file that will contain the resources, blueprints, and server.  - https://github.com/dndy9/Knowledge-Is-Power
 File archiver and compression tool to unpack the zipped files. - https://www.win-rar.com/start.html?&L=0
 
