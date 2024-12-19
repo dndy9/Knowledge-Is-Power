@@ -53,6 +53,10 @@ struct FETCH_API FFetchJsonOptions
 	GENERATED_BODY()
 
 public:
+	FFetchJsonOptions() // Constructor
+		: Body(nullptr) // Explicit initialization
+	{}
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Fetch | JSONOptions")
 		TEnumAsByte<FFetchOptionsMethod> Method = FFetchOptionsMethod::GET;
 
