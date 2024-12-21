@@ -19,7 +19,6 @@ The following resources were utilized in the development of the server infrastru
 
 - 04 How to upload image using VaREST Plugin - https://www.youtube.com/watch?v=oCVwRftmKN8
 - Adding C++ to a Blueprint Project | Unreal Engine Beginner Tutorial - https://www.youtube.com/watch?v=tW1_rD0Geiw
-
 - Amazon Web Services EC2 Documentation - https://docs.aws.amazon.com/ec2/
 - EasyFileDialog | FAB - https://www.fab.com/listings/110756d7-85db-417f-9dd0-0ffc57363466
 - FastAPI - https://fastapi.tiangolo.com/
