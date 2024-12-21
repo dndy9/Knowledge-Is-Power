@@ -17,13 +17,13 @@ Server Development References
 
 The following resources were utilized in the development of the server infrastructure:
 
-- Amazon Web Services EC2 Documentation
-- Python contextlib Documentation
-- OpenAI API Documentation
-- OpenAI Tiktoken
-- PDFPlumber
-- psutil
-- Pydantic
-- Python-dotenv
-- FastAPI
-- Uvicorn
+- Amazon Web Services EC2 Documentation - https://docs.aws.amazon.com/ec2/
+- Python contextlib Documentation - https://docs.python.org/3/library/contextlib.html#contextlib.contextmanager
+- OpenAI API Documentation - https://platform.openai.com/docs
+- OpenAI Tiktoken - https://github.com/openai/tiktoken
+- PDFPlumber - https://github.com/jsvine/pdfplumber
+- psutil - https://psutil.readthedocs.io/
+- Pydantic - https://docs.pydantic.dev/
+- Python-dotenv - https://github.com/theskumar/python-dotenv
+- FastAPI - https://fastapi.tiangolo.com/
+- Uvicorn - https://www.uvicorn.org/
