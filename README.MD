@@ -13,3 +13,16 @@ Steps to install
 4. Open the file and click on KiP01.uproject to open the project. 
 5. When the application is finished opening click the "Play" button on the middle of the screen. 
 
+Server Development References
+The following resources were utilized in the development of the server infrastructure:
+
+- Amazon Web Services EC2 Documentation
+- Python contextlib Documentation
+- OpenAI API Documentation
+- OpenAI Tiktoken
+- PDFPlumber
+- psutil
+- Pydantic
+- Python-dotenv
+- FastAPI
+- Uvicorn
