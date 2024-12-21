@@ -32,12 +32,14 @@ The following resources were utilized in the development of the server infrastru
 
 Application Development References
 
-The following resources were utillizess in the development of the application infrastructure:
+The following resources were utillized in the development of the application infrastructure:
 
 - 04 How to upload image using VaREST Plugin - https://www.youtube.com/watch?v=oCVwRftmKN8
 - Adding C++ to a Blueprint Project | Unreal Engine Beginner Tutorial - https://www.youtube.com/watch?v=tW1_rD0Geiw
 - EasyFileDialog | FAB - https://www.fab.com/listings/110756d7-85db-417f-9dd0-0ffc57363466
 - Fetch - A Simple HTTP Client in Code Plugins - UE Marketplace - https://www.unrealengine.com/marketplace/en-US/product/fetch-a-simple-http-client
-- REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!” - https://github.com/ufna/VaRest
+- Intro Unreal Engine - API Calls - https://www.youtube.com/watch?v=k2DV-m_fuJs
+- REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications! - https://github.com/ufna/VaRest
 - SimpleSQLite - https://www.fab.com/listings/fa560546-ac40-460f-9488-e71c1cdc7b3a
 - Unreal Engine: Make a quiz system or questions and answers - https://www.youtube.com/watch?v=vln3KR9Aqxw
+- Unreal Engine Blueprint API Reference - dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI?application_version=4.27
