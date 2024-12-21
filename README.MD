@@ -13,16 +13,13 @@ Steps to install
 4. Open the file and click on KiP01.uproject to open the project. 
 5. When the application is finished opening click the "Play" button on the middle of the screen. 
 
+
 Server Development References
 
 The following resources were utilized in the development of the server infrastructure:
 
-- 04 How to upload image using VaREST Plugin - https://www.youtube.com/watch?v=oCVwRftmKN8
-- Adding C++ to a Blueprint Project | Unreal Engine Beginner Tutorial - https://www.youtube.com/watch?v=tW1_rD0Geiw
 - Amazon Web Services EC2 Documentation - https://docs.aws.amazon.com/ec2/
-- EasyFileDialog | FAB - https://www.fab.com/listings/110756d7-85db-417f-9dd0-0ffc57363466
 - FastAPI - https://fastapi.tiangolo.com/
-- Fetch - A Simple HTTP Client in Code Plugins - UE Marketplace - https://www.unrealengine.com/marketplace/en-US/product/fetch-a-simple-http-client
 - OpenAI API Documentation - https://platform.openai.com/docs
 - OpenAI Tiktoken - https://github.com/openai/tiktoken
 - PDFPlumber - https://github.com/jsvine/pdfplumber
@@ -30,7 +27,17 @@ The following resources were utilized in the development of the server infrastru
 - Pydantic - https://docs.pydantic.dev/
 - Python contextlib Documentation - https://docs.python.org/3/library/contextlib.html#contextlib.contextmanager
 - Python-dotenv - https://github.com/theskumar/python-dotenv
+- Uvicorn - https://www.uvicorn.org/
+
+
+Application Development References
+
+The following resources were utillizess in the development of the application infrastructure:
+
+- 04 How to upload image using VaREST Plugin - https://www.youtube.com/watch?v=oCVwRftmKN8
+- Adding C++ to a Blueprint Project | Unreal Engine Beginner Tutorial - https://www.youtube.com/watch?v=tW1_rD0Geiw
+- EasyFileDialog | FAB - https://www.fab.com/listings/110756d7-85db-417f-9dd0-0ffc57363466
+- Fetch - A Simple HTTP Client in Code Plugins - UE Marketplace - https://www.unrealengine.com/marketplace/en-US/product/fetch-a-simple-http-client
 - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!” - https://github.com/ufna/VaRest
 - SimpleSQLite - https://www.fab.com/listings/fa560546-ac40-460f-9488-e71c1cdc7b3a
 - Unreal Engine: Make a quiz system or questions and answers - https://www.youtube.com/watch?v=vln3KR9Aqxw
-- Uvicorn - https://www.uvicorn.org/
