@@ -5,7 +5,7 @@ The project file that will contain the resources, blueprints, and server.  - htt
 File archiver and compression tool to unpack the zipped files. - https://www.win-rar.com/start.html?&L=0
 
 
-Steps to install 
+### Steps to install 
 
 1. Install Unreal Engine 4.27.2 from posted link above. 
 2. Download the project file from GitHub in posted link above. 
@@ -14,7 +14,7 @@ Steps to install
 5. When the application is finished opening click the "Play" button on the middle of the screen. 
 
 
-Server Development References
+### Server Development References
 
 The following resources were utilized in the development of the server infrastructure:
 
@@ -30,7 +30,7 @@ The following resources were utilized in the development of the server infrastru
 - Uvicorn - https://www.uvicorn.org/
 
 
-Application Development References
+### Application Development References
 
 The following resources were utillized in the development of the application infrastructure:
 
